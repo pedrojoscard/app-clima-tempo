@@ -66,10 +66,10 @@ O aplicativo apresenta:
 ## 📸 Capturas de Tela
 
 ### Tela Inicial:
-![Tela Inicial](https://via.placeholder.com/600x400)
+![tela carregada](image-1.png)
 
 ### Tela Após a Busca:
-![Tela Após Busca](https://via.placeholder.com/600x400)
+![pos busca](image.png)
 
 ## 📚 Lições Aprendidas
 
@@ -82,8 +82,3 @@ Durante o desenvolvimento deste projeto, aprofundei meu conhecimento em:
 ## 🤝 Contribuição
 
 Sinta-se à vontade para sugerir melhorias ou relatar problemas no projeto abrindo uma [issue](https://github.com/seu-usuario/app-clima-tempo/issues).
-
-![tela carregada](image-1.png)
-
--Tela após a busca:
-![pos busca](image.png)
